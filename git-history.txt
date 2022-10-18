@@ -1,0 +1,53 @@
+commit bf02d592aa6ec3258b20e8d289513c1a631e7a69
+Author: Giancarlo Castilla <alinar.lipcsei@gmail.com>
+Date:   Tue Oct 18 23:17:05 2022 +0200
+
+    rename file
+
+commit 33f95b1c0d9ed172ae1d893437318e9d4e100897
+Author: Giancarlo Castilla <alinar.lipcsei@gmail.com>
+Date:   Tue Oct 18 23:12:05 2022 +0200
+
+    Add data
+
+commit 7caaff4574f99e3a107849237ce1b9e3b56287d0
+Author: Giancarlo Castilla <alinar.lipcsei@gmail.com>
+Date:   Tue Oct 18 23:03:53 2022 +0200
+
+     New folder temp
+
+commit e069599d985e5ebb8bec181752f475dc25e0b517
+Author: Giancarlo Castilla <alinar.lipcsei@gmail.com>
+Date:   Tue Oct 18 22:53:10 2022 +0200
+
+    new folder
+
+commit 5b568a91269d37100e9cae1ceb08efcfe41fa3cf
+Author: Giancarlo Castilla <alinar.lipcsei@gmail.com>
+Date:   Tue Oct 18 22:13:20 2022 +0200
+
+    Fix broken link on contact page
+
+commit 8d61ebb3166ea9775bbbe203dad69ccf58791c1c
+Author: Alina <115447867+lipcsei-alina@users.noreply.github.com>
+Date:   Tue Oct 18 21:28:24 2022 +0200
+
+    Create .gitignore
+
+commit c006e406f21440e52427eed2fca09d191c65cab6
+Author: Giancarlo Castilla <alinar.lipcsei@gmail.com>
+Date:   Tue Oct 18 21:13:07 2022 +0200
+
+    new items have been added
+
+commit 0c838c7d3d7d34f66f37d84ed4d40e788ad5d664
+Author: Giancarlo Castilla <alinar.lipcsei@gmail.com>
+Date:   Tue Oct 18 21:07:54 2022 +0200
+
+    new items have been added
+
+commit 4dd586d03d0217d22eccb632ef4ac6ed9020d25d
+Author: Alina <115447867+lipcsei-alina@users.noreply.github.com>
+Date:   Tue Oct 18 20:31:24 2022 +0200
+
+    Create README.md
