@@ -1,4 +1,2 @@
 # git-started-general--lipcsei-alina-
-sikerult 
-vagy
-nem
+Git feladat kesz
