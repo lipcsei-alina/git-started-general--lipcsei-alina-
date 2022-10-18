@@ -1,3 +1,15 @@
+commit 38e9121eaf4a01c5d38bce251de0930d3faf19b4
+Author: Giancarlo Castilla <alinar.lipcsei@gmail.com>
+Date:   Tue Oct 18 23:42:29 2022 +0200
+
+    folders including .gitigrnore
+
+commit b3161a9cad594c5788a800b806a6b10e8e28735d
+Author: Giancarlo Castilla <alinar.lipcsei@gmail.com>
+Date:   Tue Oct 18 23:28:12 2022 +0200
+
+     duty done one
+
 commit bf02d592aa6ec3258b20e8d289513c1a631e7a69
 Author: Giancarlo Castilla <alinar.lipcsei@gmail.com>
 Date:   Tue Oct 18 23:17:05 2022 +0200
